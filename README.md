@@ -22,15 +22,14 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
 
 ## Weekly Timeline
 
-## Weekly Timeline
-
 | **Day** | **Stage** | **Goals & Deliverables** |
 |--------|-----------|---------------------------|
 | **Day 1** | Learn about Requirements → Analysis | - Document explaining how each API is triggered from the UI<br>- Trello board setup with tasks<br>- Postman workspace created and shared<br>- List of questions or ambiguities |
-| **Day 2** | Design | - Design **positive** and **negative** test cases for each API using Excel |
-| **Day 3** | Implementation (Create API requests and environment variables) | - Postman Collection with organized folders and requests covering all test cases |
-| **Day 4** | Implementation (Create assertions for each request) | - Add assertions (tests) for each API request<br>- Run collection and ensure zero failures/errors |
-| **Day 5** | Presentation | - 20-minute team presentation covering all deliverables |
+| **Day 2** | Design | Design positive and negative test cases for each API using Excel |
+| **Day 3** | Implementation (Create API requests and environment variables) | Create a Postman collection with organized folders and requests covering all test cases |
+| **Day 4** | Implementation (Create assertions for each request) | Add assertions for each request and run the collection to ensure zero failures |
+| **Day 5** | Presentation | 20-minute team presentation covering all deliverables |
+
 
 ---
 
