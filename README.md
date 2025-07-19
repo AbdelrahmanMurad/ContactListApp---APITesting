@@ -50,6 +50,7 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
 - Trello
 - Postman
 - Microsoft Excel
+- GitHub
 
 ---
 
@@ -64,6 +65,7 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
   - Includes requests for all relevant API endpoints
   - Contains **tests in the "Tests" tab** (JavaScript assertions)
 - Use **environment variables** throughout the collection (e.g., base URLs, tokens)
+- Deploy the work on GitHub 
 
 ---
 
