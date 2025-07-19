@@ -63,8 +63,8 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
 - Ensure Postman Collection:
   - Is well-structured and organized
   - Includes requests for all relevant API endpoints
-  - Contains **tests in the "Tests" tab** (JavaScript assertions)
-- Use **environment variables** throughout the collection (e.g., base URLs, tokens)
+  - Contains **tests in the "Tests" tab** (JavaScript assertions) (Scripts)
+  - Use **environment variables** throughout the collection (e.g., base URLs, tokens)
 - Deploy the work on GitHub 
 
 ---
