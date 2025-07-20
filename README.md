@@ -78,11 +78,3 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
   Example: Send a POST request with missing required fields and verify the proper error response.
 
 - Explore the UI of the app to identify and cover more relevant test scenarios.
-
----
-
- ## Contributors
-
-- [Ahmad]()
-- [Majd]()
-- [Saif]()
