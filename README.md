@@ -77,4 +77,4 @@ This is a 5-day collaborative project where QAs will work in groups of 4 to simu
 - **Negative Test Case:**  
   Example: Send a POST request with missing required fields and verify the proper error response.
 
-- Explore the UI of the app to identify and cover more relevant test scenarios.
+- Explore the UI of the app to identify and cover more relevant test scenarios. [Verify Mapping between GUI and API]
