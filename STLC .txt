@@ -1,0 +1,16 @@
+Testing Requirements + Test Plan
+Day 1 (Saturday): Learn About Reqs + Assign + Test Plan
+
+Test Cases Development
+Day 2 (Sunday): Design TCs
+
+Execute Test Cases
+Day 3 (Monday): Design Requests + Run TCs
+Day 4 (Tuesday): Run Collection Tests
+
+Test Closure Phase
+Day 5 (Wednesday): Bug Reports + RTM + Test Summary Report
+
+Testing Outcomes
+Day 6 (Thursday): Presentation PowerPoint 
+Day 7 (Friday): Sprint Meeting with Mamoun
